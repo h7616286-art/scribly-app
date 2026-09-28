@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Scribly - All in One",
+    "slug": "scribly-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "backgroundColor": "#6C3483",
+      "resizeMode": "contain"
+    },
+    "android": {
+      "package": "com.scribly.allinone",
+      "versionCode": 1
+    }
+  }
+}
