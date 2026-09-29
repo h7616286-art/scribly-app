@@ -26,6 +26,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "owner": "scriblyapp123s-team",
+    "extra": {
+      "eas": {
+        "projectId": "120db800-4e4b-4a9a-816b-078ad9fad703"
+      }
     }
   }
 }
