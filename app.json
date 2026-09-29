@@ -12,11 +12,6 @@
     "android": {
       "package": "com.scribly.allinone",
       "versionCode": 1
-    },
-    "extra": {
-      "eas": {
-        "projectId": "scribly-app-project"
-      }
     }
   }
 }
